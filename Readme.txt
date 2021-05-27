@@ -14,7 +14,3 @@ Notes on portfolio section:
 Hover over each image, the + symbol will enlarge the picture
 The link symbol will link to the github repository for each project.
 
-
-<div align="center">
-    <img src="/Screenshots/PortfolioHome.png" </img> 
-</div>
