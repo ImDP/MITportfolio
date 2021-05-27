@@ -7,7 +7,7 @@ npm install
 this will install all dependencies
 
 In the terminal, then type: 
-gulp
+gulp start
 this will open the portfolio on localhost port 3000 on your machine.
 
 Notes on portfolio section:
