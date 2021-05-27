@@ -14,3 +14,4 @@ Notes on portfolio section:
 Hover over each image, the + symbol will enlarge the picture
 The link symbol will link to the github repository for each project.
 
+Clicking on nav menu links will take you to each section
